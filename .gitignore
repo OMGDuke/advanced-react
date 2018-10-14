@@ -1,0 +1,4 @@
+.sonarlint
+frontend/.next
+node_modules
+backend/src/generated
